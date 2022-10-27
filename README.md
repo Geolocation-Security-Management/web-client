@@ -48,7 +48,7 @@ Firebase Credentials | https://firebase.google.com/docs/cloud-messaging/js/recei
 
 ## Seed Data
 
-Two seed data files are available at `/src/data/` `events-seed-json.json` and `personnel-seed-json.json`.
+Two seed data files are available at `/src/data/`: `events-seed-json.json` and `personnel-seed-json.json`.
 
 <br>
 
